@@ -1,0 +1,123 @@
+# Aula introdutória
+
+- O que é jurimetria
+- Quando usar jurimetria
+- Quem usa jurimetria
+- Jurimetria e inteligência artificial
+- Cases que serão discutidos no curso
+
+# Case dano moral
+
+- Método científico
+- Questões norteadoras
+- Abrangência do estudo
+- Construindo uma pesquisa
+
+# O que é estatística?
+
+- Definição de estatística
+- Probabilidade
+- Regressão: litigiosidade e desenvolvimento
+
+# Case valor condenação nos JEC
+
+- Teoria da decisão
+- Gratuidade judiciária
+- Priest & Klein
+
+# Raspagem de dados e dados abertos
+
+- Estudo prospectivo e retrospectivo
+- Dados abertos e dados públicos
+
+# Case do CARF
+
+- Amostragem
+- Teste de hipóteses
+
+# Case da remuneração do advogado
+
+- Modelo que prevê resultado e tempo
+- Como usar esses modelos
+
+# Case do MCI
+
+- Análise de impacto regulatório
+- Causalidade
+- intervalo de confiança
+
+# Case da Adoção
+
+- Como é o processo de transformar uma pesquisa em uma lei
+- Análise de sobrevivência
+
+# Case das câmaras
+
+- Variabilidade de decisões no judiciário
+- Insegurança jurídica
+
+# Case da vivo
+
+- O que é um modelo preditivo?
+- Como se faz um modelo preditivo?
+- Provisionamento
+
+# Case da especialização
+
+- Como medir esforço do juiz?
+- Análise de fluxo processual
+- Process mining
+
+# Case do observatório da insolvência
+
+- Como realizar uma pesquisa com coleta manual
+- Formulário de classificação
+- Análise de inconsistências
+
+# Case do observatório do mercado de capitais
+
+- O processo administrativo sancionador da CVM
+- Análise dos acordos
+- Construindo questões norteadoras
+- Construindo taxonomias
+
+# Case do observatório societário
+
+- Ferramentas de visualização
+- Gráficos estatísticos
+
+# Case tempos de processos
+
+- Amostragem
+- Tempo de processos (análise de sobrevivência revisited)
+
+# Case do show do milhão
+
+- Incerteza em um processo
+- Como decidir?
+
+# Case das drogas
+
+- Princípios jurídicos e jurimetria
+- Teoria da decisão
+
+# Case da execução de contratos
+
+- Doing Business
+- Construindo uma amostra
+
+# Case da estratégia de acordo
+
+- Antecipação de custos
+- Valor presente
+- Estudo de simulação
+
+# Case dos honorários de advogado
+
+- STJ e súmula 7
+- Como medir o intervalo para honorários
+
+# Case extração de dados de documentos
+
+- Jurimetria e inteligência artificial
+- processamento de linguagem natural
